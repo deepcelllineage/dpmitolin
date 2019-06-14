@@ -13,3 +13,8 @@ The methods that we would create should be able to
 - For ATAC: all DNA sequence data, i.e. mtDNA sequences & uncoiled nuclear DNA sequences 
 - For C1 and 10x: all mRNA sequences (including mtRNA) and expression levels of each sequence
 More features can be added to both...
+
+
+## More Info
+
+For more information on the deepcelllineage (DCL) project and background for dpmitolin, please see our overview repo and especially the [overview wiki](https://github.com/deepcelllineage/overview/wiki)
